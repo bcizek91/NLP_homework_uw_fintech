@@ -12,7 +12,7 @@ Q. Which coin had the highest positive score?
 
 A: Bitcoin has the higher max postive sentiment value of 0.353000, compared to Ethereum with 0.144000.
 
-Overall, sentiment around Bitcoin seeems to be positive and chatter is interelated with Elon Musk and Tesla. There also seems to be more of a pull from bitcoin on etherum, than etherum on bitcoin...at least ast indicated by the word clouds and name entity recognition charts.
+Overall, sentiment around Bitcoin seeems to be positive and chatter is interelated with Elon Musk and Tesla. There also seems to be more of a pull from Bitcoin on Etherum, than Etherum on Bitcoin...at least as indicated by the word clouds and name entity recognition charts.
 <br/><br/>
 ### Bitcoin Sentiment DataFrame
 ---
