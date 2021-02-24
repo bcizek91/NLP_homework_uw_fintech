@@ -21,7 +21,7 @@ A: Bitcoin has the higher max postive sentiment value of 0.353000, compared to E
 | 2 | 2021-02-09 | For a brief moment on Sunday, before Tesla sai... | [brief, moment, sunday, tesla, invested, billi... |  -0.1027 |    0.000 |    0.038 |   0.962 |
 | 3 | 2021-02-12 | Twitter and Square CEO Jack Dorsey and rapper ... | [twitter, square, ceo, jack, dorsey, rapper, j... |   0.2500 |    0.056 |    0.000 |   0.944 |
 | 4 | 2021-02-08 | Today in an SEC filing, Tesla disclosed that i... | [today, sec, filing, tesla, disclosed, ha, acq... |   0.6597 |    0.137 |    0.000 |   0.863 |
-<br/>
+<br/><br/>
 ### Ethereum Sentiment DataFrame
 ---
 |   |       date |                                              text |                                            tokens | compound | positive | negative | neutral |
@@ -42,7 +42,7 @@ A: Bitcoin has the higher max postive sentiment value of 0.353000, compared to E
 |  89 | (popular, cryptocurrency) |     2 |
 |  62 |            (jack, dorsey) |     2 |
 | ... |                       ... |   ... |
-<br/>
+<br/><br/>
 ### Etherum Bigram
 ---
 |     |          bigram | count |
@@ -65,7 +65,7 @@ A: Bitcoin has the higher max postive sentiment value of 0.353000, compared to E
  ('ha', 4),
  ('company', 4),
  ('musk', 3)]
-<br/>
+<br/><br/>
 ### Top 10 Ethereum Words
 [('char', 20),
  ('reuters', 15),
@@ -81,7 +81,7 @@ A: Bitcoin has the higher max postive sentiment value of 0.353000, compared to E
 ### Bitcoin Wordcloud
 ---
 ![](Images/btc_wc.png)
-<br/>
+<br/><br/>
 ### Ethereum Wordcloud
 ---
 ![](Images/eth_wc.png)
@@ -89,7 +89,7 @@ A: Bitcoin has the higher max postive sentiment value of 0.353000, compared to E
 ### Bitcoin Named Entity Recognition
 ---
 ![](Images/btc_ner.png)
-<br/>
+<br/><br/>
 ### Ethereum Named Entity Recognition
 ---
 ![](Images/eth_ner.png)
